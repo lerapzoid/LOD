@@ -1,0 +1,175 @@
+"Facebook","Twitter",5,2
+"Google Maps","Twitter",1,2
+"Flickr","YouTube",4,3
+"Twilio","Twilio SMS",7,9
+"Flickr","Google Maps",4,1
+"Google Maps","YouTube",1,3
+"Facebook","Google Maps",5,1
+"Flickr","Twitter",4,2
+"Twitter","YouTube",2,3
+"Last.fm","YouTube",8,3
+"Facebook","YouTube",5,3
+"Amazon Product Advertising","YouTube",6,3
+"Facebook","Flickr",5,4
+"Amazon Product Advertising","eBay",6,19204
+"GeoNames","Google Maps",18,1
+"Yahoo Geocoding","Google Maps",19217,1
+"Google AdSense","Google Maps",17,1
+"Panoramio","Google Maps",29,1
+"Amazon Product Advertising","Google Maps",6,1
+"Flickr","del.icio.us",4,11
+"Amazon Product Advertising","Flickr",6,4
+"Twitter","Foursquare",2,13
+"eBay","Google Maps",19204,1
+"Google Earth","Google Maps",32,1
+"Google Maps","Foursquare",1,13
+"Google Maps Data","Google Maps",19202,1
+"Yahoo Search","Google Search",19216,19219
+"Twilio","Twitter",7,2
+"Flickr","Last.fm",4,8
+"Google Geocoding","Google Maps",47,1
+"LinkedIn","Twitter",23,2
+"Google Search","YouTube",19219,3
+"Google Search","Google Maps",19219,1
+"Google Maps","Yelp Fusion",1,25
+"geocoder","Google Maps",39,1
+"Facebook","Twilio",5,7
+"Google Maps","Google Chart",1,19223
+"Last.fm","Twitter",8,2
+"del.icio.us","Twitter",11,2
+"eBay","YouTube",19204,3
+"Facebook","LinkedIn",5,23
+"del.icio.us","YouTube",11,3
+"Amazon EC2","Amazon S3",21,16
+"Amazon Product Advertising","Twitter",6,2
+"Amazon Product Advertising","Facebook",6,5
+"Google Base","Google Maps",19238,1
+"Facebook","Foursquare",5,13
+"Facebook","Last.fm",5,8
+"Microsoft Bing Maps","Google Maps",10,1
+"Flickr","Technorati",4,19234
+"Flickr","Yahoo Search",4,19216
+"Yahoo Search","YouTube",19216,3
+"Google Maps","Wikipedia",1,19
+"Google App Engine","Google Maps",12,1
+"Flickr","Wikipedia",4,19
+"TwitPic","Twitter",57,2
+"Amazon Product Advertising","Last.fm",6,8
+"Digg","Twitter",19244,2
+"Yahoo Maps","Google Maps",19207,1
+"Twitter","Twilio SMS",2,9
+"Wikipedia","YouTube",19,3
+"Flickr","Google Search",4,19219
+"Google Maps","Google Analytics Managment",1,27
+"Bit.ly","Twitter",43,2
+"Digg","del.icio.us",19244,11
+"Flickr","Google Picasa",4,45
+"Yahoo Local Search","Google Maps",28,1
+"Oodle","Google Maps",51,1
+"Last.fm","MusicBrainz",8,41
+"Vimeo","YouTube",60,3
+"Amazon S3","Google Maps",16,1
+"Google Maps","Google Static Maps",1,67
+"Technorati","YouTube",19234,3
+"Twitter","Wikipedia",2,19
+"Yahoo Image Search","YouTube",19213,3
+"Google AdSense","YouTube",17,3
+"Google AdSense","Google Analytics Managment",17,27
+"Digg","YouTube",19244,3
+"Facebook Graph","Facebook",30,5
+"Google App Engine","Twilio",12,7
+"Google App Engine","Twitter",12,2
+"Google Maps","Last.fm",1,8
+"Amazon Product Advertising","Shopping.com",6,26
+"Bing","YouTube",22,3
+"Facebook","Twilio SMS",5,9
+"Yahoo Maps","Flickr",19207,4
+"Eventful","Google Maps",34,1
+"Flickr","Foursquare",4,13
+"Spotify Metadata","Last.fm",19221,8
+"Google Maps","Weather Channel",1,73
+"Instagram Graph","Twitter",24,2
+"Digg","Flickr",19244,4
+"Flickr","GeoNames",4,18
+"MusicBrainz","YouTube",41,3
+"Google Fusion Tables","Google Maps",75,1
+"Bing","Twitter",22,2
+"Flickr","Panoramio",4,29
+"Twitter","Google Chart",2,19223
+"Amazon Product Advertising","Commission Junction",6,38
+"Google AdSense","Flickr",17,4
+"eBay","Flickr",19204,4
+"Facebook","MySpace",5,65
+"Google Maps Places","Google Maps",70,1
+"Google Search","Twitter",19219,2
+"Google Search","del.icio.us",19219,11
+"Technorati","del.icio.us",19234,11
+"Foursquare","YouTube",13,3
+"Google Plus","Facebook",66,5
+"Amazon Product Advertising","Yahoo Search",6,19216
+"Google AdWords","Google Maps",37,1
+"Facebook Graph","Twitter",30,2
+"Facebook","Google Analytics Managment",5,27
+"Facebook","Amazon S3",5,16
+"indeed","Google Maps",33,1
+"Tumblr","Twitter",63,2
+"Panoramio","YouTube",29,3
+"Yahoo Search","del.icio.us",19216,11
+"Google Search","Technorati",19219,19234
+"Google Analytics Managment","YouTube",27,3
+"Google Plus","Twitter",66,2
+"Amazon Product Advertising","del.icio.us",6,11
+"Amazon Product Advertising","Google Search",6,19219
+"Yahoo Image Search","Yahoo Search",19213,19216
+"eBay","Shopping.com",19204,26
+"eBay","Twitter",19204,2
+"SoundCloud","YouTube",50,3
+"Facebook Graph","Google Maps",30,1
+"Facebook","Google Search",5,19219
+"Facebook","Instagram Graph",5,24
+"Flickr","Yelp Fusion",4,25
+"Flickr","Instagram Graph",4,24
+"Flickr","Vimeo",4,60
+"Google Picasa","YouTube",45,3
+"Amazon S3","Twitter",16,2
+"Yahoo Search","Technorati",19216,19234
+"LinkedIn","YouTube",23,3
+"Google Maps","Instagram Graph",1,24
+"Yelp Fusion","Twitter",25,2
+"Google Analytics Managment","Twitter",27,2
+"Amazon Product Advertising","Google AdSense",6,17
+"Bing","Yahoo Search",22,19216
+"Amazon EC2","YouTube",21,3
+"Google AdSense","Google Search",17,19219
+"Digg","Facebook",19244,5
+"Eventful","Flickr",34,4
+"Flickr","Amazon S3",4,16
+"Flickr","Google Analytics Managment",4,27
+"Flickr","LinkedIn",4,23
+"Upcoming.org","Google Maps",19231,1
+"del.icio.us","Last.fm",11,8
+"Yelp Fusion","YouTube",25,3
+"Instagram Graph","YouTube",24,3
+"Yahoo Geocoding","Flickr",19217,4
+"Yahoo Image Search","Flickr",19213,4
+"Bing","Flickr",22,4
+"Amazon EC2","Facebook",21,5
+"Amazon EC2","Twitter",21,2
+"Google AdSense","Google AdWords",17,37
+"Google AdSense","Facebook",17,5
+"Bit.ly","Facebook",43,5
+"eBay","Facebook",19204,5
+"Facebook Graph","Facebook Social Plugins",30,19245
+"FriendFeed","Twitter",54,2
+"Facebook","Yelp Fusion",5,25
+"Facebook","Google Picasa",5,45
+"Flickr","TwitPic",4,57
+"Flickr","MySpace",4,65
+"GeoNames","Panoramio",18,29
+"Panoramio","Wikipedia",29,19
+"Amazon S3","YouTube",16,3
+"Gowalla","Foursquare",20106,13
+"Google Maps","Google Maps Elevation",1,102
+"Yelp Fusion","Foursquare",25,13
+"Twitter","MySpace",2,65
+"Freebase","YouTube",19224,3
