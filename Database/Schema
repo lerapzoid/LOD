@@ -1,0 +1,3 @@
+List of table schema:
+RELATION(ID INT AUTO_INCREMENT NOT NULL, IDService1 INT, foreign key (IDService1) references API(ID), IDService2 INT, foreign key (IDService2) references API(ID), dateObservation VARCHAR(15), typeRelation VARCHAR(30), poids DOUBLE,PRIMARY KEY (ID));
+EVOLUTION(ID INT AUTO_INCREMENT NOT NULL,IDService1 INT, foreign key (IDService1) references API(ID), IDService2 INT, foreign key (IDService2) references API(ID), dateObservation VARCHAR(15), differencePoids DOUBLE,token int,PRIMARY KEY (ID));
