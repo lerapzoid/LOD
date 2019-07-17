@@ -42,6 +42,26 @@ Mashup_Description longtext,
 Related_API_ longtext, 
 Mashup_App_Type char(255), 
 Submitted char(255));
-RELATION(ID INT AUTO_INCREMENT NOT NULL, IDService1 INT, foreign key (IDService1) references API(ID), IDService2 INT, foreign key (IDService2) references API(ID), dateObservation VARCHAR(15), typeRelation VARCHAR(30), poids DOUBLE,PRIMARY KEY (ID));
-EVOLUTION(ID INT AUTO_INCREMENT NOT NULL,IDService1 INT, foreign key (IDService1) references API(ID), IDService2 INT, foreign key (IDService2) references API(ID), dateObservation VARCHAR(15), differencePoids DOUBLE,token int,PRIMARY KEY (ID));
-STAT(ID INT AUTO_INCREMENT NOT NULL, API1_Name char(255), API2_Name char(255),nbInterract int,IDMashup longtext,PRIMARY KEY (ID));
+
+RELATION(ID INT AUTO_INCREMENT NOT NULL, 
+IDService1 INT, foreign key (IDService1) references API(ID), 
+IDService2 INT, foreign key (IDService2) references API(ID), 
+dateObservation VARCHAR(15), 
+typeRelation VARCHAR(30), 
+poids DOUBLE,
+PRIMARY KEY (ID));
+
+EVOLUTION(ID INT AUTO_INCREMENT NOT NULL,
+IDService1 INT, foreign key (IDService1) references API(ID), 
+IDService2 INT, foreign key (IDService2) references API(ID), 
+dateObservation VARCHAR(15), 
+differencePoids DOUBLE,
+token int,
+PRIMARY KEY (ID));
+
+STAT(ID INT AUTO_INCREMENT NOT NULL, 
+API1_Name char(255), 
+API2_Name char(255),
+nbInterract int,
+IDMashup longtext,
+PRIMARY KEY (ID));
